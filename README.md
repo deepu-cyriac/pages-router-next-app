@@ -1,5 +1,7 @@
 #pages-router-next-app
 
+The pages router is a legacy method and is still used widely. It is much stable than App Router. Though, new Next.js apps are built using App Router as it is more future-proof and offers more features than pages router.
+
 #npm run dev - Run development server
 
 - File-based routing instead of code-based
